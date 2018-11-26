@@ -1,0 +1,54 @@
+﻿body {
+    background-color: #343a40;
+}
+
+.psLogo {
+    font: bold;
+    font-family: 'Calibri', sans-serif;
+    color: white;
+    font-size: 88px;
+    position: absolute;
+    right: 105px;
+}
+
+a.psLogo:hover {
+    font: bold,;
+    color: #c9c9c9;
+    font-size: 89px;
+    text-decoration: none;
+}
+
+.cloud {
+    position: absolute;
+    right: 0px;
+    padding: 10px;
+    height: 75px;
+    width: 100px;
+}
+
+.logoImages {
+    height: 225px;
+    width: 225px;
+    border: 5px solid #343a40;
+}
+
+.skillset {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+.customJumbotron {
+    background-color: #343a40;
+    font-family: Calibri;
+    color: white;
+    font-size: 75px;
+    text-align: center;
+}
+
+.aboutMe {
+    font-family: Calibri;
+    color: white;
+    margin-left: 50px;
+    margin-right: 50px;
+}
